@@ -1,0 +1,5 @@
+One_Hundred_Years_of_Solitude Gabriel_Garcia_Marquez 1967 150
+The_Lord_of_the_Rings J._R._R._Tolkien 1949 200
+Paradise_Lost John_Milton 1674 100
+The_Red_and_the_Black Stendhal 1830 170
+The_Brothers_Karamazov Fyodor_Dostoyevsky 1880 220
